@@ -55,16 +55,14 @@ document_query_system
 🙌 Contributions
 Contributions are welcome and appreciated! 💖
 
+
 If you'd like to improve this project:
 
 🍴 Fork the repository
-
 🛠️ Create your feature branch (git checkout -b feature-name)
-
 ✅ Commit your changes (git commit -m 'Add feature')
-
 📤 Push to the branch (git push origin feature-name)
-
 🔃 Open a Pull Request
+
 
 Let’s build something amazing together! 💫
