@@ -25,20 +25,20 @@ Just upload `.docx` files and ask questions — our AI will dig out accurate ans
 
 ### 📦 Installation
 
-**Clone the repository**
+1. **Clone the repository**
    ```bash
    git clone https://github.com/Pranavasai16/document_query_system.git
    cd document_query_system
    ```
-**Install dependencies**
+2. **Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
-**Add your Google API key to .env**
+3. **Add your Google API key to .env**
 ```bash
 GOOGLE_API_KEY=your_api_key_here
 ```
-**Run the app**
+4. **Run the app**
 ```bash
 streamlit run main.py
 ```
